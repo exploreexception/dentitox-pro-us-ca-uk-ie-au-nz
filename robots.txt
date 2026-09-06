@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://exploreexception.github.io/dentitox-pro-us-ca-uk-ie-au-nz/sitemap.xml
